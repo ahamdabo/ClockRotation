@@ -1,4 +1,3 @@
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -30,7 +29,6 @@ class Solution {
 
             }
 
-            //calculate the total pairs
             for (int k : elements.values())  result += k * (k - 1) / 2;
 
             return result;
