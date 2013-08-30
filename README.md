@@ -25,11 +25,11 @@ For example, you are given matrix A consisting of five rows and two columns, and
  
 
 
-see (http://images.cnitblog.com/blog/508442/201308/18052946-24ec118dae03458a9f86447d11cc45bd.png)
+see (http://codility.com/static/task_img/clocks/media/auto/mp8658215160632c7ec397537a29204879.png)
 
 You can rotate the clocks to obtain several clocks that look identical. For example, if you rotate the third, fourth and fifth clocks you can obtain the following clocks:
 
-see (http://images.cnitblog.com/blog/508442/201308/18053002-bf7b3ecd478646a88013c62b1c65cc90.png)
+see (http://codility.com/static/task_img/clocks/media/auto/mp9ec20a2157a5ee06e218d7c6ca577eeb.png)
 
 
 After rotation, you have four pairs of clocks that look the same: (1, 3), (1, 4), (2, 5) and (3, 4).
